@@ -21,9 +21,9 @@ function sayHiToHeadphonedRoommate(string) {
   } else if(string === string.toUpperCase()) {
     return 'YES INDEED!';
   } else if(string === "Let's have dinner together!") {
-    return "I would love to!"
+    return "I would love to!";
   } else {
-    return "Sup!"
+    return "Sup!";
   }  
 }
 // default response is "Sup!" 
